@@ -1,8 +1,10 @@
 ---
 title: OpenStreetMap Workshop
 ---
+ 
+# Start
 
-# Welkom op de OpenStreetMap Workshop!
+## Welkom bij de OpenStreetMap Workshop!
 
 [OpenStreetMap](https://openstreetmap.org), 
 afgekort OSM, is een vrije, bewerkbare kaart van de hele wereld die 
@@ -16,7 +18,7 @@ In feite verwijst dit naar drie onderdelen:
 * De resultaten: de OSM data waarmee kaarten, zoals op openstreetmap.org worden gemaakt
 * En bovenal: de mensen, de "OSM Community"
 
-# Over deze workshop
+## Over deze workshop
 
 Dit is een basis workshop waarin je het volgende leert: 
 
@@ -37,5 +39,12 @@ Indien tijd over, keuze uit deze meer geavanceerde onderwerpen:
 * Data uit OpenStreetMap halen met de OverPass API
 * Data uit OpenStreetMap halen in QGIS
 * Introductie JOSM Editor
+
+## Uw FOSS4GNL 2023 Workshop Team
+
+|[Casper Kersten](https://www.hdyc.neis-one.org/?Friendly_Ghost)| [Just van den Broecke](https://www.openstreetmap.org/user/justb)  |
+|---|---|
+|![A](assets/images/casper_kersten.jpg) | ![B](assets/images/just_broecke.jpg)  |
+
 
 **Laten we beginnen met [De Basics](intro.md)!**
