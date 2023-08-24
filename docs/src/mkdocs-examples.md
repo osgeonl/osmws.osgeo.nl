@@ -2,6 +2,9 @@
 title: Voorbeelden mkdocs formatting
 ---
 
+Dit is bedoeld voor de editors van deze workshop, bevat verschillende
+format-constructies voor Markdown en mkdocs.
+
 # Quoting
 
 Indentatie
@@ -58,6 +61,8 @@ echo 'Hello world'
 
 # Plaatjes
 
+Plaatjes zijn "Lightbox-enabled", dus door te klikken op plaatje te vergroten, 
+bijv als "slide" te gebruiken.
 
 <figure markdown>
 ![Architecture](assets/images/testplaatje.jpg){ data-title="testplaatje" data-description="dit is een testplaatje" }
@@ -66,7 +71,7 @@ echo 'Hello world'
 
 # Embed Video
 
-Voorbeeld:
+Voorbeeld OpenStreetMap tutorial, adding building in Id-Editor:
 
-![type:video](https://www.youtube.com/embed/S_Sp7dRDbW0)
+![type:video](https://www.youtube.com/embed/E1YJV6I_rhY)
 

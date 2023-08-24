@@ -7,12 +7,15 @@ repo_url: https://github.com/osgeonl/osmws.osgeo.nl
 edit_uri: '/docs/src'
 docs_dir: src
 nav:
-    - Thuis: index.md
-#    - Intro:
-#        - Specification: design/spec.md
-#        - Architecture: design/architecture.md
-#        - Data: design/data.md
-#        - Deployment: design/gitops.md
+    - Start: index.md
+    - Intro: intro.md
+    - EveryDoor App: apps/everydoor.md
+    - StreetComplete App: apps/streetcomplete.md
+    - Geavanceerd:
+       - OverPass API: advanced/overpass-api.md
+       - QGIS: advanced/qgis.md
+       - JOSM Editor: advanced/josm.md
+    - Auteurs: mkdocs-examples.md
 
 use_directory_urls: true
 
