@@ -2,6 +2,8 @@
 title: App - StreetComplete
 ---
 
+(TODO)
+
 # Installeren
 
 StreetComplete is alleen beschikbaar voor Android.
