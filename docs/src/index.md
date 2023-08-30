@@ -22,21 +22,24 @@ In feite verwijst dit naar drie onderdelen:
 
 Dit is een basis workshop waarin je het volgende leert: 
 
-* De "basics" van OSM
+* De "basics" van OSM, data model
+* OSM organisatie: [OSMF](https://wiki.osmfoundation.org/wiki/Main_Page)
+* Kwaliteits-bewaking met o.a. [Osmose](https://wiki.openstreetmap.org/wiki/Osmose)
 * Navigeren op [openstreetmap.org](https://openstreetmap.org)
 * Een OSM account aanmaken.
-* De ID-editor, korte uitleg, 
+* De ID-editor, korte uitleg,
 * Werken slimme OSM surveyor apps: [StreetComplete](https://streetcomplete.app/?lang=nl) en [EveryDoor](https://every-door.app/)
 * Kennismaken met de OSM(-NL) community, het [OSM Forum](https://community.openstreetmap.org/).
+* NL-specifiek: import van BAG en andere basisregistraties
 
-Voor de eerste 4 onderdelen maken we gebruik van OSM tutorials op o.a.
+We maken gebruik van bestaande OSM tutorials zoals:
 
 * [OSM Beginner's Guide Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide)
 * de website [LearnOSM](https://learnosm.org/nl_NL/).
 
 Indien tijd over, keuze uit deze meer geavanceerde onderwerpen:
 
-* Data uit OpenStreetMap halen met de OverPass API
+* Data uit OpenStreetMap halen met de OverPass (Turbo) API
 * Data uit OpenStreetMap halen in QGIS
 * Introductie JOSM Editor
 

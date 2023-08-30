@@ -1,5 +1,5 @@
 ---
-title: Intro - De Basics
+title: Intro - OSM Basics
 ---
 
 # Historie
@@ -10,14 +10,39 @@ title: Intro - De Basics
 
 [Start OSM op LearnOSM](https://learnosm.org/nl_NL/beginner/start-osm/)
 
-# Over OSM Data
+# Het OSM Data Model
 
-* Nodes, Ways, Closed Ways, etc
-* Tagging
+Zie [Understanding OSM Data](https://wiki.openstreetmap.org/wiki/Beginners_Guide_1.3)
+
+Binnen het OSM data model staan geometrieën centraal. 
+Denk aan punten, lijnen, vlakken, en combinaties daarvan.
+
+Deze geometrieën worden **Elements**, Elementen genoemd.
+Aan elk 
+Element worden eigenschappen, sommigen noemen dit metadata, 
+toegekend in de vorm van **Tags**.
+
+De Elementen in OSM terminologie zijn:
+
+* **Nodes** (lees: punten)
+* **Ways** (lees: lijnen)
+* **Closed Ways en Areas** (lees: open en gevulde vlakken, polygonen)
+* **Relations**, combinaties van Elementen bijv Wandelroutes, laten we hier buiten beschouwing
+* Elk Element heeft een uniek Id het **OSM-id**
+
+In plaats van modellen en schema's met attributen, 
+zoals in GML, gebruikt OSM **Tagging**:
+
+* Elk Element (zie boven) wordt beschreven met een of meer **Tags**
+* Een Tag is een `key=value` paar
+* Bijvoorbeeld voor een Way: `highway=residential` of een parkeerplaats (Closed Way) `amenity=parking`
+* Er is binnen OSM, via de Wiki](https://wiki.openstreetmap.org/wiki/Tags), "ongoing" consensus over een set te gebruiken Tags
+* Sommige OSM Editors, bijv ID, gebruiken presets voor Tags om de gebruiker te faciliteren 
+* Zie [uitgebreide uitleg](https://wiki.openstreetmap.org/wiki/Tags)
 
 # Account Aanmaken
 
-(Mogelijk vragen deelnemers om dit tevoren te doen ivm tijd).
+We vragen deelnemers tevoren (via email) om dit te doen ivm tijd.
 
 # Id Editor
 
@@ -27,12 +52,14 @@ Alleen basics.
 
 * OSM Forum
 * NL Community op OSM Forum
-* Bijeenkomsten
+* BAG-import methodiek en conventies
+* NL-Bijeenkomsten
+* Internationaal: SOTM - [EU-versie, 10-12 November, 2023 in Antwerpen!](https://stateofthemap.eu/)
 * Meer? Discord? Telegram?
 
 # Meer info
 
 * [OSM Wiki](https://wiki.openstreetmap.org/)
-* ...
+  [Start OSM op LearnOSM](https://learnosm.org/nl_NL/beginner/start-osm/) (de Engelse versie is wat meer uptodate)
 
 **Door naar de [Smart App EveryDoor](apps/everydoor.md)!**
