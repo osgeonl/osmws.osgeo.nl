@@ -36,7 +36,7 @@ zoals in GML, gebruikt OSM **Tagging**:
 * Elk Element (zie boven) wordt beschreven met een of meer **Tags**
 * Een Tag is een `key=value` paar
 * Bijvoorbeeld voor een Way: `highway=residential` of een parkeerplaats (Closed Way) `amenity=parking`
-* Er is binnen OSM, via de Wiki](https://wiki.openstreetmap.org/wiki/Tags), "ongoing" consensus over een set te gebruiken Tags
+* Er is binnen OSM, via de [Wiki](https://wiki.openstreetmap.org/wiki/Tags), "ongoing" consensus over een set te gebruiken Tags
 * Sommige OSM Editors, bijv ID, gebruiken presets voor Tags om de gebruiker te faciliteren 
 * Zie [uitgebreide uitleg](https://wiki.openstreetmap.org/wiki/Tags)
 
