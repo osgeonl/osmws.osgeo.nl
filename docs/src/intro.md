@@ -2,15 +2,19 @@
 title: Intro - OSM Basics
 ---
 
-# Historie
+# OSM Basics
+
+Hierin leggen we de basis principes van OSM uit.
+
+## Historie
 
 [History_of_OpenStreetMap](https://wiki.openstreetmap.org/wiki/History_of_OpenStreetMap)
 
-# De OpenStreetMap Website Exploreren
+## De OpenStreetMap Website Exploreren
 
 [Start OSM op LearnOSM](https://learnosm.org/nl_NL/beginner/start-osm/)
 
-# Het OSM Data Model
+## Het OSM Data Model
 
 Zie [Understanding OSM Data](https://wiki.openstreetmap.org/wiki/Beginners_Guide_1.3)
 
@@ -24,13 +28,13 @@ toegekend in de vorm van **Tags**.
 
 De Elementen in OSM terminologie zijn:
 
-* **Nodes** (lees: punten)
-* **Ways** (lees: lijnen)
-* **Closed Ways en Areas** (lees: open en gevulde vlakken, polygonen)
-* **Relations**, combinaties van Elementen bijv Wandelroutes, laten we hier buiten beschouwing
-* Elk Element heeft een uniek Id het **OSM-id**
+* **[Node](https://wiki.openstreetmap.org/wiki/Node)** (lees: punten)
+* **[Way](https://wiki.openstreetmap.org/wiki/Way)** (lees: lijnen)
+* **[Closed Way](https://wiki.openstreetmap.org/wiki/Way#Closed_way)** en **[Area](https://wiki.openstreetmap.org/wiki/Way#Area)** (lees: open en gevulde vlakken, polygonen)
+* **[Relation](https://wiki.openstreetmap.org/wiki/Relation)**, combinaties van Elementen bijv Wandelroutes, laten we hier buiten beschouwing
+* Elk Element heeft een **[uniek 64-bit integer Id](https://wiki.openstreetmap.org/wiki/64-bit_Identifiers)**
 
-In plaats van modellen en schema's met attributen, 
+In plaats van modellen en schemas met attributen, 
 zoals in GML, gebruikt OSM **Tagging**:
 
 * Elk Element (zie boven) wordt beschreven met een of meer **Tags**
@@ -39,27 +43,40 @@ zoals in GML, gebruikt OSM **Tagging**:
 * Er is binnen OSM, via de [Wiki](https://wiki.openstreetmap.org/wiki/Tags), "ongoing" consensus over een set te gebruiken Tags
 * Sommige OSM Editors, bijv ID, gebruiken presets voor Tags om de gebruiker te faciliteren 
 * Zie [uitgebreide uitleg](https://wiki.openstreetmap.org/wiki/Tags)
+* OSM kent impliciet, door tagging, [Map Features](https://wiki.openstreetmap.org/wiki/Map_features)
 
-# Account Aanmaken
+!!! tip
+
+    De website/app TagInfo op [taginfo.openstreetmap.org](https://taginfo.openstreetmap.org/) geeft veel informatie over gebruik van tags.
+    De tags die voor Nederland worden gebruikt vind je op [taginfo.geofabrik.de/europe/netherlands](https://taginfo.geofabrik.de/europe/netherlands)
+    Specifieke tagging conventies voor NL: [Wiki NL:Kaartelementen](https://wiki.openstreetmap.org/wiki/NL:Kaartelementen)
+    Iedere tag, een key, of key=value, is op de OSM Wiki te vinden, bijv [amenity=hospital](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital)
+
+## Account Aanmaken
 
 We vragen deelnemers tevoren (via email) om dit te doen ivm tijd.
 
-# Id Editor
+## Id Editor
 
 Alleen basics.
 
-# Community
+## Community
 
-* OSM Forum
-* NL Community op OSM Forum
+* [OSM Forum](https://community.openstreetmap.org)
+* [NL Community op OSM Forum](https://community.openstreetmap.org/c/communities/nl/43)
+* [NL Landings Pagina op OSM Wiki](https://wiki.openstreetmap.org/wiki/NL:Nederland)
 * BAG-import methodiek en conventies
 * NL-Bijeenkomsten
 * Internationaal: SOTM - [EU-versie, 10-12 November, 2023 in Antwerpen!](https://stateofthemap.eu/)
-* Meer? Discord? Telegram?
+* Meer? Discord? NL Telegram groep?
 
-# Meer info
+!!! tip
+
+    Met je OSM Account heb je automatisch toegang tot het OSM Forum.
+
+## Meer info
 
 * [OSM Wiki](https://wiki.openstreetmap.org/)
-  [Start OSM op LearnOSM](https://learnosm.org/nl_NL/beginner/start-osm/) (de Engelse versie is wat meer uptodate)
+* [Start OSM op LearnOSM](https://learnosm.org/nl_NL/beginner/start-osm/) (de Engelse versie is wat meer uptodate)
 
 **Door naar de [Smart App EveryDoor](apps/everydoor.md)!**

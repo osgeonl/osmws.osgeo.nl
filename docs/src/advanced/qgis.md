@@ -2,8 +2,10 @@
 title: OSM Data in QGIS
 ---
 
-# Hoe
+# OSM Data in QGIS
+
+## Installatie
 
 [Plugin QuickOSM](https://plugins.qgis.org/plugins/QuickOSM/).
 
-(Text)
+(TODO)
