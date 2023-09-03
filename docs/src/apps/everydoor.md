@@ -22,6 +22,7 @@ in [De Grote Geo Show ep. 15 - OpenStreetMap Special](https://tv.osgeo.nl/episod
 [EveryDoor](https://every-door.app/) is beschikbaar voor Android en IOS, zie :
 
 * Android: [Google Play](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door)
+* Android: [F-Droid](https://f-droid.org/packages/info.zverev.ilya.every_door/)
 * IOS : [AppStore](https://apps.apple.com/app/every-door/id1621945342)
 
 ## Gebruiken
