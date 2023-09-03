@@ -52,6 +52,17 @@ Aangezien de app bedoeld is om te worden gebruikt in het veld, kan deze ook offl
 
 Om de app gebruiksvriendelijk te maken, zijn de opdrachten beperkt tot die welke beantwoord kunnen worden door eenvoudige vragen te stellen.
 Dit is de [lijst met mogelijke quests](https://wiki.openstreetmap.org/wiki/StreetComplete/Quests).
+
+!!! tip
+
+    Soms zie je een situatie in het veld die je niet direct in StreetComplete kan oplossen. Bijvoorbeeld een
+    wandelpad is opgeheven of een gebouw is afgebroken.
+    In dat geval kun je locatiegebonden Notes en zelfs foto's neerleggen en die vervolgens thuis met een OSM Editor zoals
+    Id of JOSM oplossen. Vergeet daarna niet de Note te "resolven"!
+    Hoe een Note maken? Binnen SC doe je een "long-push" met je vinger op de plek waar je de Note wilt neerleggen.
+    Of je kunt in de "quest" ingeven "Other Answers...|Don't Know" en dan de Note maken.
+    [Hier kun je de laatste Notes in NL zien](https://resultmaps.neis-one.org/osm-notes-country?c=Netherlands), maar ook in je User Profiel
+    als je op openstreetmap.org bent ingelogd.
  
 ### Team Modus
 
