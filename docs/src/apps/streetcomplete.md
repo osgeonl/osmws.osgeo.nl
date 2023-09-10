@@ -4,6 +4,8 @@ title: App - StreetComplete
 
 # StreetComplete App
 
+![Logo](../assets/images/streetcomplete-logo.png)
+
 *"[StreetComplete](https://streetcomplete.app/?lang=nl) is een gemakkelijk te gebruiken bewerker/editor voor OpenStreetMap voor Android telefoons en tablets. 
 Wordt gebruikt voor het in het veld in kaart brengen ("field surveying").*
 

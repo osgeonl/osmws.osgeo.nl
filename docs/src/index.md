@@ -11,8 +11,8 @@ afgekort OSM, is een vrije, bewerkbare kaart van de hele wereld die
 door vrijwilligers wordt gebouwd en wordt vrijgegeven 
 met een open content licentie (ODbL).
 
-OpenStreetMap is een wat overkoepelende term. 
-In feite verwijst dit naar drie onderdelen:
+OpenStreetMap is een overkoepelende term. 
+In feite verwijst dit naar minimaal drie onderdelen:
 
 * Het OSM Project: de methoden en technieken, en tools (bijv "Editors")
 * De resultaten: de OSM data waarmee kaarten, zoals op openstreetmap.org worden gemaakt
@@ -37,6 +37,9 @@ We maken gebruik van bestaande OSM tutorials zoals:
 * [OSM Beginner's Guide Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide)
 * de website [LearnOSM](https://learnosm.org/nl_NL/).
 
+We zullen presentatie-slides gebruiken. Deze website kan ook als naslagwerk dienen.
+
+De focus is vooral op de "smart apps". 
 Indien tijd over, keuze uit deze meer geavanceerde onderwerpen:
 
 * Data uit OpenStreetMap halen met de OverPass (Turbo) API

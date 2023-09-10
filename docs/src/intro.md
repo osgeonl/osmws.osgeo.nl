@@ -58,7 +58,7 @@ We vragen deelnemers tevoren (via email) om dit te doen ivm tijd.
 
 ## Id Editor
 
-Alleen basics.
+We behandelen alleen basics.
 
 ## Community
 
