@@ -55,6 +55,10 @@ zoals in GML, gebruikt OSM **Tagging**:
 ## Account Aanmaken
 
 We vragen deelnemers tevoren (via email) om dit te doen ivm tijd.
+Registratie gaat eenvoudig via [www.openstreetmap.org/user/new](https://www.openstreetmap.org/user/new).
+Je hoeft niet perse je eigen naam te gebruiken als username, ook wel "OSM-handle" genoemd.
+Deze kan overigens later aangepast. Ook je home locatie hoeft niet perse op je huis.
+Ook dat is later aan te passen.
 
 ## Id Editor
 
