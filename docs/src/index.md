@@ -22,15 +22,13 @@ In feite verwijst dit naar minimaal drie onderdelen:
 
 Dit is een basis workshop waarin je het volgende leert: 
 
-* De "basics" van OSM, data model
+* De "basics" van OSM, het data model, "tagging"
 * OSM organisatie: [OSMF](https://wiki.osmfoundation.org/wiki/Main_Page)
-* Kwaliteits-bewaking met o.a. [Osmose](https://wiki.openstreetmap.org/wiki/Osmose)
 * Navigeren op [openstreetmap.org](https://openstreetmap.org)
 * Een OSM account aanmaken.
-* De ID-editor, korte uitleg,
+* De ID-editor, alleen korte introductie.
 * Werken slimme OSM surveyor apps: [StreetComplete](https://streetcomplete.app/?lang=nl) en [EveryDoor](https://every-door.app/)
 * Kennismaken met de OSM(-NL) community, het [OSM Forum](https://community.openstreetmap.org/).
-* NL-specifiek: import van BAG en andere basisregistraties
 
 We maken gebruik van bestaande OSM tutorials zoals:
 
@@ -39,12 +37,14 @@ We maken gebruik van bestaande OSM tutorials zoals:
 
 We zullen presentatie-slides gebruiken. Deze website kan ook als naslagwerk dienen.
 
-De focus is vooral op de "smart apps". 
-Indien tijd over, keuze uit deze meer geavanceerde onderwerpen:
+De focus van deze workshop is vooral op de "smart apps". 
+Indien tijd over, keuze uit meer geavanceerde onderwerpen:
 
 * Data uit OpenStreetMap halen met de OverPass (Turbo) API
 * Data uit OpenStreetMap halen in QGIS
 * Introductie JOSM Editor
+* Kwaliteits-bewaking met o.a. [Osmose](https://wiki.openstreetmap.org/wiki/Osmose)
+* NL-specifiek: import van BAG en andere basisregistraties in OSM
 
 ## Uw FOSS4GNL 2023 Workshop Team
 
