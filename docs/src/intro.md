@@ -64,6 +64,13 @@ Ook dat is later aan te passen.
 
 We behandelen alleen basics.
 
+!!! tip
+
+    Je kunt een eigen achtergrondkaart invoegen in Id bijv uit PDOK. Ga naar lagen en dan "Custom.."
+    In een form kun je een symbolische URL invoegen bijv een laag uit Top10NL, 
+    bijv hier de laag Top10NL Wegdeel, je kunt deze copy-pasten:
+    https://service.pdok.nl/brt/top10nl/wms/v1_0?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&FORMAT=image/png&TRANSPARENT=true&LAYERS=wegdeel&CRS={proj}&STYLES=&WIDTH={width}&HEIGHT={height}&BBOX={bbox}
+
 ## Community
 
 * [OSM Forum](https://community.openstreetmap.org)
