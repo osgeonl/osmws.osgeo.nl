@@ -15,7 +15,7 @@ nav:
        - OverPass API: advanced/overpass-api.md
        - QGIS: advanced/qgis.md
        - JOSM Editor: advanced/josm.md
-    - Auteurs: mkdocs-examples.md
+#    - Auteurs: mkdocs-examples.md
 
 use_directory_urls: true
 
