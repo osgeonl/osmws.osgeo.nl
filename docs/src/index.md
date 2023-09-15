@@ -29,16 +29,32 @@ Dit is een basis workshop waarin je het volgende leert:
 * De ID-editor, alleen korte introductie.
 * Werken slimme OSM surveyor apps: [StreetComplete](https://streetcomplete.app/?lang=nl) en [EveryDoor](https://every-door.app/)
 * Kennismaken met de OSM(-NL) community, het [OSM Forum](https://community.openstreetmap.org/).
+ 
 
-We maken gebruik van bestaande OSM tutorials zoals:
+## Lesmateriaal
+
+Bij deze workshop horen presentatie-slides. 
+**Deze [presentatie slides vind je hier als PDF](assets/presentations/osm-workshop-foss4gnl-2023.pdf).**
+
+Verder maken we gebruik van bestaande OSM tutorials zoals:
 
 * [OSM Beginner's Guide Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide)
 * de website [LearnOSM](https://learnosm.org/nl_NL/).
 
-We zullen presentatie-slides gebruiken. Deze website kan ook als naslagwerk dienen.
+We zullen [de presentatie-slides]((assets/presentations/osm-workshop-foss4gnl-2023.pdf)) als voornaamste leidraad gebruiken. 
+Deze website en de slides kunnen ook als naslagwerk of voor zelfstudie dienen.
+
+Deze workshop is ontwikkeld voor en gegeven op de [OSGeo.nl FOSS4GNL 2023 in Middelburg](https://foss4g.nl), maar
+wij kunnen ons voorstellen dat wij deze ook op volgende gelegenheden gaan geven. Laat ons weten!
+De licentie is Creative Commons  CC0 1.0 Universal. U kunt dit materiaal dus vrij gebruiken met inachtneming van CC0.
+
+De content [wordt ontwikkeld op GitHub](https://github.com/osgeonl/osmws.osgeo.nl). 
+Ziet u fouten of heeft u suggesties dan kunt u die daar als issues of PRs indienen.
+
+## Geavanceerd
 
 De focus van deze workshop is vooral op de "smart apps". 
-Indien tijd over, keuze uit meer geavanceerde onderwerpen:
+Indien tijd over, is er keuze uit meer geavanceerde onderwerpen:
 
 * Data uit OpenStreetMap halen met de OverPass (Turbo) API
 * Data uit OpenStreetMap halen in QGIS

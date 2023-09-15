@@ -8,7 +8,7 @@ Hierin leggen we de basis principes van OSM uit.
 
 ## Historie
 
-[History_of_OpenStreetMap](https://wiki.openstreetmap.org/wiki/History_of_OpenStreetMap)
+OpenStreetMap is opgericht in 2004 door [Steve Coast](https://stevecoast.com/) lees meer in de [History_of_OpenStreetMap](https://wiki.openstreetmap.org/wiki/History_of_OpenStreetMap)
 
 ## De OpenStreetMap Website Exploreren
 
@@ -60,13 +60,18 @@ Je hoeft niet perse je eigen naam te gebruiken als username, ook wel "OSM-handle
 Deze kan overigens later aangepast. Ook je home locatie hoeft niet perse op je huis.
 Ook dat is later aan te passen.
 
-## Id Editor
+## iD Editor
 
-We behandelen alleen basics.
+Dit is de editor die standaard op openstreetmap.org beschikbaar is.
+Wanneer je [inlogt daar](https://www.openstreetmap.org/login) zie je links boven een 'Edit' knop. Deze brengt je
+in de iD Editor. De achtergrondkaart zal dan ook wijzigen, meestal naar de meest
+gedetailleerde luchtfoto's. In Nederland is dat de PDOK Luchtfoto met 8cm resolutie.
+
+We behandelen alleen de iD basics.
 
 !!! tip
 
-    Je kunt een eigen achtergrondkaart invoegen in Id bijv uit PDOK. Ga naar lagen en dan "Custom.."
+    Je kunt een eigen achtergrondkaart invoegen in iD bijv uit PDOK. Ga naar lagen en dan "Custom.."
     In een form kun je een symbolische URL invoegen bijv een laag uit Top10NL, 
     bijv hier de laag Top10NL Wegdeel, je kunt deze copy-pasten:
     https://service.pdok.nl/brt/top10nl/wms/v1_0?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&FORMAT=image/png&TRANSPARENT=true&LAYERS=wegdeel&CRS={proj}&STYLES=&WIDTH={width}&HEIGHT={height}&BBOX={bbox}
