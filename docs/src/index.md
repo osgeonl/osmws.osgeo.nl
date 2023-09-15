@@ -41,7 +41,7 @@ Verder maken we gebruik van bestaande OSM tutorials zoals:
 * [OSM Beginner's Guide Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide)
 * de website [LearnOSM](https://learnosm.org/nl_NL/).
 
-We zullen [de presentatie-slides]((assets/presentations/osm-workshop-foss4gnl-2023.pdf)) als voornaamste leidraad gebruiken. 
+We zullen [de presentatie-slides](assets/presentations/osm-workshop-foss4gnl-2023.pdf) als voornaamste leidraad gebruiken. 
 Deze website en de slides kunnen ook als naslagwerk of voor zelfstudie dienen.
 
 Deze workshop is ontwikkeld voor en gegeven op de [OSGeo.nl FOSS4GNL 2023 in Middelburg](https://foss4g.nl), maar
